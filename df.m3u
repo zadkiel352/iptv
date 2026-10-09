@@ -1,0 +1,124 @@
+#EXTM3U
+#PLAYLIST: Lista IPTV Optimizada con Logos y Categorías
+
+# --- ARGENTINA ---
+#EXTINF:-1 tvg-logo="https://githubusercontent.com", Canal 26 (Argentina) (1080p)
+https://telecentro.net.ar
+#EXTINF:-1 tvg-logo="https://githubusercontent.com", Telefe Tucuman (1080p)
+https://edge-access.net
+#EXTINF:-1, Aire de Santa Fe (1080p)
+https://dps.live
+#EXTINF:-1, Argentinisima Satelital (540p)
+https://sersat.com
+#EXTINF:-1, Canal E (720p)
+https://dps.live
+#EXTINF:-1, Telemax (Argentina)
+https://telecentro.net.ar
+#EXTINF:-1, Caras TV (1080p)
+https://dps.live
+
+# --- ESPAÑA / ANDORRA ---
+#EXTINF:-1 tvg-logo="https://githubusercontent.com", La 2
+https://rtve.es
+#EXTINF:-1 tvg-logo="https://githubusercontent.com", 24 Horas (Spain) (720p)
+https://rtve.es
+#EXTINF:-1 tvg-logo="https://githubusercontent.com", Andorra TV (1080p)
+https://hiway.media
+
+# --- ESTADOS UNIDOS / CANADÁ / REINO UNIDO (PLUTO & STINGRAY) ---
+#EXTINF:-1 tvg-logo="https://githubusercontent.com", Comedy Central (United States) CA
+https://jmp2.uk
+#EXTINF:-1 tvg-logo="https://githubusercontent.com", MovieSphere CA
+https://jmp2.uk
+#EXTINF:-1 tvg-logo="https://githubusercontent.com", Pluto TV Sci-Fi (United States) CA
+https://jmp2.uk
+#EXTINF:-1 tvg-logo="https://githubusercontent.com", Pluto TV True Crime (United States) CA
+https://jmp2.uk
+#EXTINF:-1 tvg-logo="https://githubusercontent.com", Stingray Classic Rock (1080p)
+https://stingray.com
+#EXTINF:-1 tvg-logo="https://githubusercontent.com", Stingray Easy Listening (1080p)
+https://stingray.com
+
+# --- MÉXICO ---
+#EXTINF:-1 tvg-logo="https://githubusercontent.com", Canal Once (1080p)
+https://canaloncelive.tv
+#EXTINF:-1 tvg-logo="https://githubusercontent.com", Imagen TV (1080p)
+https://otteravision.com
+#EXTINF:-1 tvg-logo="https://githubusercontent.com", Milenio Television (720p)
+https://jmp2.uk
+#EXTINF:-1, ADN 40 (720p)
+https://mdstrm.com
+#EXTINF:-1, TeleFormula (720p)
+https://mdstrm.com
+
+# --- CHILE ---
+#EXTINF:-1 tvg-logo="https://githubusercontent.com", T13 En Vivo (1080p)
+https://dps.live
+#EXTINF:-1, Bio Bio TV (1080p)
+https://rudo.video
+#EXTINF:-1, 13C (1080p)
+https://dpsgo.com
+#EXTINF:-1, UCV TV (720p)
+https://dps.live
+
+# --- COLOMBIA ---
+#EXTINF:-1 tvg-logo="https://githubusercontent.com", Noticias RCN (720p)
+https://jmp2.uk
+#EXTINF:-1, Red+ (1080p)
+https://claro.net.co
+#EXTINF:-1, Blu Radio (720p)
+https://mdstrm.com
+
+# --- COSTA RICA ---
+#EXTINF:-1, Canal 4 (Costa Rica) (720p)
+https://cloudfront.net
+#EXTINF:-1, Canal 6 (Costa Rica) (720p)
+https://cloudfront.net
+#EXTINF:-1, Canal 11 (Costa Rica) (720p)
+https://cloudfront.net
+
+# --- REPÚBLICA DOMINICANA ---
+#EXTINF:-1, Canal 4 RD (1080p)
+https://protvradiostream.com
+#EXTINF:-1, Canal 17 RTVD (1080p)
+https://protvradiostream.com
+
+# --- ECUADOR ---
+#EXTINF:-1, Ecuavisa Guayaquil (1080p) [Not 24/7]
+https://google.com
+#EXTINF:-1, FM Mundo (1080p)
+https://makrodigital.com
+
+# --- EL SALVADOR ---
+#EXTINF:-1, Canal 10 (El Salvador) (720p)
+https://streamlock.net
+
+# --- FRANCIA ---
+#EXTINF:-1 tvg-logo="https://githubusercontent.com", France 24 (1080p)
+https://france24.com
+#EXTINF:-1, CNews (1080p)
+https://githubusercontent.com
+
+# --- ALEMANIA ---
+#EXTINF:-1 tvg-logo="https://githubusercontent.com", Das Erste HD (1080p)
+https://ard-mcdn.de
+#EXTINF:-1 tvg-logo="https://githubusercontent.com", ZDF
+https://antik.sk
+
+# --- INDIA ---
+#EXTINF:-1 tvg-logo="https://githubusercontent.com", Aaj Tak HD (1080p)
+https://intoday.in
+#EXTINF:-1, India Today (720p)
+https://cloudfront.net
+#EXTINF:-1, Republic TV (1080p)
+https://githubusercontent.com
+
+# --- INTERNACIONALES / OTROS PAÍSES ---
+#EXTINF:-1 tvg-logo="https://githubusercontent.com", Bloomberg TV Australia (270p)
+https://bloomberg.com
+#EXTINF:-1, ABC News (Australia) (720p)
+https://akamaized.net
+#EXTINF:-1, Silk Way (1080p)
+https://akamaized.net
+#EXTINF:-1, Belarus-1 HD (1080p)
+https://beltelecom.by
